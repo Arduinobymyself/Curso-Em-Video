@@ -1,0 +1,132 @@
+PYTHON MUNDO 1 - Introdução ao Mundo da Programação
+Aula 1 - Seja um programador
+
+PYTHON MUNDO 1 - Primeiros passos com Python
+Aula 2 - Paque serve o Python?
+Aula 3 - Instalando o Python 3 e o Idle
+Aula 4 - Primieros comandos em Python 3
+Aula 5 - Instalando o PyCharm e o QPython3
+ex001 - Deixando tudo pronto
+ex002 - Respondendo ao usuário
+
+PYTHON MUNDO 1 - Tratando dados e fazendo contas
+Aula 6 - Tipos Primitivos e Saída de Dados
+ex003 - Somando dois números
+ex004 - Dissecando uma variável
+Aula 7 - Operadores Aritméticos
+ex005 - Antecessor e Sucessor
+ex006 - Dobro, Triplo, Raiz Quadrada
+ex007 - Média Aritmética
+ex008 - Conversor de moedas
+ex009 - Tabuada
+ex010 - Conversor de Moedas
+ex011 - Pintando parede
+ex012 - Caluclando descontos
+ex013 - Reajuste Salarial
+ex014 - Conversor de temperaturas
+ex015 - Aluguel de carros
+
+PYTHON MUNDO 1 - Usando módulos do Python
+Aula 8 - Utilizando módulos
+ex016 - Quebrando um número
+ex017 - Catetos e Hipotenusa
+ex018 - Seno, Cosseno e tangente
+ex019 - Sorteando um item na lista
+ex020 - Sorteando uma ordem na lista
+ex021 - Tocando um MP3
+Aula 9 - Manipulando Texto
+ex022 - Analisador de textos
+ex023 - Separando digitos de um número
+ex024 - Verificando as primeiras letras de um texto
+ex025 - Procurando uma string dentro de outra
+ex026 -Primeira e última ocorrência de uma string
+ex027 - Primeiro e último nome de uma pessoa
+
+PYTHON MUNDO 1 - Condições em Python (if...else)
+Aula 10 - Condições (Parte 1)
+ex028 - Jogo da advinhação v.1.0
+ex029 - Radar eletrônico
+ex030 - Par ou Impar?
+ex031 - custo da viagem
+ex032 - Ano Bissexto
+ex033 - Maior e menor valores
+ex034 - Aumentos múltiplos
+ex035 - Analisando Triângulo v.1.0
+
+PYTHON MUNDO 1 - Adicionando cores ao Python
+Aula 11 - Cores no terminal
+
+
+
+PYTHON MUNDO 2 - Introdução ao Mundo 2
+Aula 11 - Dicas e regras
+
+PYTHON MUNDO 2 - Condições em Python (if..elif)
+Aula 12 - Condições aninhadas
+ex036 - Aprovando empréstimos
+ex037 - Conversor de bases numéricas
+ex038 - Comparando números
+ex039 - Alistamento militar
+ex040 - Aquele clássico da média
+ex041 - Classificando atletas
+ex042 - Analisando Triângulos v.2.0
+ex043 - Índice de Massa Corporal (IMC)
+ex044 - Gerenciador de pagamentos
+ex045 - GAME: Pedra, Papel e Tesoura (JOKENPO)
+
+PYTHON MUNDO 2 - Repetições em Python (for)
+Aula 13 - Estrutura de repetição for
+ex046 - Contagem regressiva
+ex047 - Contagem de pares
+ex048 - Soma ímpares múltiplos de três
+ex049 - Tabuada v.2.0
+ex050 - Soma dos pares
+ex051 - Progressão aritmética
+ex052 - Números primos
+ex053 - Detector de palíndromo
+ex054 - Grupo da maioridade
+ex055 - Maior e menor da sequência
+ex056 - Analisador completo
+
+PYTHON MUNDO 2 - Repetições em Python (while)
+Aula 14 - Estutura de repetição while
+ex057 - Validação de dados
+ex058 - Jogo da advinhação v.2.0
+ex059 - Criando um menu de opções
+ex060 - Cálculo do fatorial
+ex061 - Progressão aritmética v.2.0
+ex062 - Super progressão aritmética v.3.0
+ex063 - Sequência de Fibonacci
+ex064 - Tratando vários valores v.1.0
+ex065 - maior e menor valores
+ex066 - vários números com flag
+ex067 - Tabuada v.3.0
+ex068 - Jogo do Par ou Ímpar
+ex069 - Análise de dados do grupo
+ex070 - Estatísticas em produtos
+ex071 - Simulador de caixa eletrônico
+
+PYTHON MUNDO 3 - TUPLAS EM PYTHON
+Aula 16 - Tuplas
+ex072 - Numero por extenso
+ex073 - Tuplas com times de futebol
+ex074 - Maior e menor valores em Tuplas
+ex075 - Análise de dados em uma Tupla
+ex076 - Lista de preços com Tupla
+ex077 - Contando vogais em tupla
+
+PYTHON MUNDO 3 - LISTAS EM PYTHON
+Aula 17 - Listas (Parte 1)
+ex078 - Maior e Menor valores na lista
+ex079 - Valores únicos em uma lista
+ex080 - Lista ordenada sem repetição
+ex081 - extraindo dados de uma lista
+ex082 - Dividindo valoes em várias listas
+ex083 - Validado expressões matemáticas
+Aula 18 - Listas (Parte 2)
+ex084 - lista composta e análise de dados
+ex085 - Lista com pares e impares
+ex086 - Matriz em Python
+ex087 - Mais sobre Matriz em Python
+ex088 - Palpites para Mega Sena
+ex089 - Boletim com listas compostas
