@@ -42,7 +42,7 @@ ex025 - Procurando uma string dentro de outra
 ex026 -Primeira e última ocorrência de uma string
 ex027 - Primeiro e último nome de uma pessoa
 
-PYTHON MUNDO 1 - Condições em Python (if...else)
+PYTHON MUNDO 1 - Condições (if...else)
 Aula 10 - Condições (Parte 1)
 ex028 - Jogo da advinhação v.1.0
 ex029 - Radar eletrônico
@@ -74,7 +74,7 @@ ex043 - Índice de Massa Corporal (IMC)
 ex044 - Gerenciador de pagamentos
 ex045 - GAME: Pedra, Papel e Tesoura (JOKENPO)
 
-PYTHON MUNDO 2 - Repetições em Python (for)
+PYTHON MUNDO 2 - Repetições (for)
 Aula 13 - Estrutura de repetição for
 ex046 - Contagem regressiva
 ex047 - Contagem de pares
@@ -88,7 +88,7 @@ ex054 - Grupo da maioridade
 ex055 - Maior e menor da sequência
 ex056 - Analisador completo
 
-PYTHON MUNDO 2 - Repetições em Python (while)
+PYTHON MUNDO 2 - Repetições (while)
 Aula 14 - Estutura de repetição while
 ex057 - Validação de dados
 ex058 - Jogo da advinhação v.2.0
@@ -106,7 +106,7 @@ ex069 - Análise de dados do grupo
 ex070 - Estatísticas em produtos
 ex071 - Simulador de caixa eletrônico
 
-PYTHON MUNDO 3 - TUPLAS EM PYTHON
+PYTHON MUNDO 3 - TUPLAS
 Aula 16 - Tuplas
 ex072 - Numero por extenso
 ex073 - Tuplas com times de futebol
@@ -115,7 +115,7 @@ ex075 - Análise de dados em uma Tupla
 ex076 - Lista de preços com Tupla
 ex077 - Contando vogais em tupla
 
-PYTHON MUNDO 3 - LISTAS EM PYTHON
+PYTHON MUNDO 3 - LISTAS
 Aula 17 - Listas (Parte 1)
 ex078 - Maior e Menor valores na lista
 ex079 - Valores únicos em uma lista
@@ -131,7 +131,7 @@ ex087 - Mais sobre Matriz em Python
 ex088 - Palpites para Mega Sena
 ex089 - Boletim com listas compostas
 
-PYTHON MUNDO 3 - DICIONÁRIOS EM PYTHON
+PYTHON MUNDO 3 - DICIONÁRIOS
 Aula 19 - Dicionários
 ex090 - Dicionário em Python
 ex091 - Jogo de dados
@@ -139,3 +139,18 @@ ex092 - Cadastro de trabalhador
 ex093 - Cadastro de jogador de futebol
 ex094 - Unindo dicionários e listas
 ex095 - Aprimorando os dicionários
+Aula 20 - Funções parte 1
+ex096 - Função que calcula área
+ex097 - Um print especial
+ex098 - Função de contador
+ex099 - Função que descobre o maior
+ex100 - Funções para sortear e somar
+Aula 20 - Funções parte 2
+ex101 - Funções para votação
+ex102 - Função para fatorial
+ex103 - Ficha do jogador
+ex104 - Validando entrada de dados em Python
+ex105 - Analisando e gerando dicionários
+ex106 - Interactive helping system in Python
+
+PYTHON MUNDO 3 - MODULARIZAÇÃO
